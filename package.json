@@ -1,5 +1,5 @@
 {
-  "name": "eth-token-tracker",
+  "name": "token-tracker",
   "version": "1.0.0",
   "description": "A module for tracking token balances over block changes.",
   "main": "dist/index.js",

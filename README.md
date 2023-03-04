@@ -4,12 +4,12 @@ A JS module for tracking Ethereum tokens and their values over time.
 
 ## Installation
 
-`yarn install '@metamask/eth-token-tracker'`
+`yarn install token-tracker`
 
 ## Usage
 
 ```javascript
-const TokenTracker = require('@metamask/eth-token-tracker')
+const TokenTracker = require('token-tracker')
 
 var tokenTracker = new TokenTracker({
 
