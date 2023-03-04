@@ -1,7 +1,7 @@
 {
-  "name": "@metamask/eth-token-tracker",
-  "version": "4.0.0",
-  "description": "A module for tracking Ethereum token balances over block changes.",
+  "name": "eth-token-tracker",
+  "version": "1.0.0",
+  "description": "A module for tracking token balances over block changes.",
   "main": "dist/index.js",
   "engines": {
     "node": ">=12.0.0"
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/MetaMask/eth-token-tracker.git"
+    "url": "git+ssh://git@github.com/BunsDev/eth-token-tracker.git"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org/",
@@ -25,12 +25,12 @@
     "ethereum",
     "tokens"
   ],
-  "author": "Dan Finlay <dan@danfinlay.com>",
+  "author": "Buns Enchantress <bunsthedev@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MetaMask/eth-token-tracker/issues"
+    "url": "https://github.com/BunsDev/eth-token-tracker/issues"
   },
-  "homepage": "https://github.com/MetaMask/eth-token-tracker#readme",
+  "homepage": "https://github.com/BunsDev/eth-token-tracker#readme",
   "files": [
     "/dist",
     "/lib"
